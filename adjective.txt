@@ -1,0 +1,6 @@
+Adjective: adjective is word which describe noun or pronoun.
+example: 
+1. lazy 
+2 . intelligent
+3. short
+4. tall
