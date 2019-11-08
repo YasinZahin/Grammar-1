@@ -1,1 +1,2 @@
-Pronoun: is a word
+Pronoun: is a word, use instead of a noun which prevents the repeatation of nouns.
+Example: saeeda(noun) is drinking cola. -> She(pronoun) is drinking water.
