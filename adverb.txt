@@ -1,20 +1,5 @@
-
-
-adverb: is a word which describe verb, adjective and another adverb.
-examples: he runs too fast
-too is an adverb here..
-
-examples: she hardly ever sing.
-
-conjunction: is a word which join or combine two words two phrases or two sentences
-example: What is the difference between computer science and software engineering?
-
-Noun: noun is the name of person place or thing
-examples: Afghanistan is my passion.
-in  this example thee word afghanistan is a noun
-
-Tenses :
-Present tense:
+tenses:
+present tense:
 which we do regularly or habitually
 structure: s+v+c ..... s+vs/es+c
 example: she works hard
