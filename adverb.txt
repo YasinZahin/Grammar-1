@@ -1,3 +1,8 @@
+
+
 adverb: is a word which describe verb, adjective and another adverb.
 examples: he runs too fast
 too is an adverb here..
+
+examples: she hardly ever sing.
+
