@@ -1,2 +1,278 @@
 Pronoun: is a word, use instead of a noun which prevents the repeatation of nouns.
 Example: saeeda(noun) is drinking cola. -> She(pronoun) is drinking water.
+
+A pronoun is a word that replaces a noun in a sentence. Pronouns are used to avoid repeating the same nouns over and over again. For example, "Jeremy ran so fast, you'd think his life was on the line." The pronoun "his" saved us from repeating the name Jeremy again.
+
+Common pronouns include I, me, mine, she, he, it, we, and us. In truth, there are many different types of pronouns, each serving a different purpose.
+
+Personal Pronouns
+Personal pronouns are used as a substitute for a person's name. There are two kinds: subjective and objective pronouns. That is, they either act as the subject of the sentence or the object of the sentence.
+
+As the subject of a sentence, they are:
+
+I
+
+you
+
+he
+
+she
+
+it
+
+we
+
+they
+
+For example:
+
+They went to the store.
+
+I don't want to leave.
+
+He runs a great shop in town.
+
+You can't leave, either.
+
+As the object of the sentence, they are:
+
+me
+
+you
+
+her
+
+him
+
+it
+
+us
+
+them
+
+For example:
+
+Please don't sit beside me.
+
+Go talk to her.
+
+Mary put the gift under it.
+
+Don't look at them.
+
+For more, check out Subject Versus Object Pronouns.
+
+Possessive Pronouns
+Possessive pronouns show ownership or possession of a noun. They are:
+
+my
+
+our
+
+your
+
+his
+
+her
+
+its (note there is no apostrophe)
+
+their
+
+For example:
+
+Is that my book?
+
+No, that's his book.
+
+That's its shelf.
+
+I'd like to see their bookshelves.
+
+However, there are also independent possessive pronouns. These pronouns refer to a previously named or understood noun. They stand alone and aren't followed by any other noun. They are:
+
+mine
+
+ours
+
+yours
+
+his
+
+hers
+
+its
+
+theirs
+
+For example:
+
+That's mine.
+
+Wrong. It's ours.
+
+So, I suppose those clothes are yours?
+
+No, it's theirs.
+
+Indefinite Pronouns
+Indefinite pronouns don't point to particular nouns. We use them when an object doesn't need to be specifically identified. As such, it can remain indefinite. They include:
+
+few
+
+everyone
+
+all
+
+some
+
+anything
+
+nobody
+
+For example:
+
+Most wealth is held by a select few.
+
+Everyone is here already.
+
+I don't have any paper napkins. Can you bring some?
+
+He's nobody.
+
+Relative Pronouns
+Relative pronouns are used to connect a clause or phrase to a noun or pronoun. We often see them when we need to add more information. They are:
+
+who
+
+whom
+
+which
+
+whoever
+
+whomever
+
+whichever
+
+that
+
+For example:
+
+The driver who ran the stop sign was careless.
+
+I don't know which pair of shoes you want.
+
+Take whichever ones you want.
+
+No, not that one.
+
+Intensive Pronouns
+Intensive pronouns emphasize, or intensify, nouns and pronouns. Typically, we find them right after the noun they're intensifying. These pronouns typically end in -self or -selves. They are:
+
+myself
+
+himself
+
+herself
+
+themselves
+
+itself
+
+yourself
+
+yourselves
+
+ourselves
+
+For example:
+
+I myself like to travel.
+
+He himself is his worst critic.
+
+She approved the marriage herself.
+
+We went to hear W.B. Yeats himself speak.
+
+Demonstrative Pronouns
+Demonstrative pronouns take the place of a noun that's already been mentioned. They can be singular or plural. There are five of them. They include:
+
+these
+
+those
+
+this
+
+that
+
+such
+
+For example:
+
+These are ugly.
+
+Those are lovely.
+
+Don't drink this.
+
+Such was his understanding.
+
+Interrogative Pronouns
+Interrogative pronouns do just what they say. They work in sentences that are posing a question. They are:
+
+who
+
+whom
+
+which
+
+what
+
+whoever
+
+whomever
+
+whichever
+
+whatever
+
+For example:
+
+Who is going to arrive first?
+
+What are you bringing to the party?
+
+Which of these do you like better?
+
+Whatever do you mean?
+
+Reflexive Pronouns
+Reflexive pronouns are similar to intensive pronouns. The difference between the two is that intensive pronouns aren't essential to a sentence's meaning. Meanwhile, reflexive pronouns are. Also, they're used when the subject and the object of a sentence refer to the same person or thing. These pronouns end in -self or -selves. They are:
+
+myself
+
+yourself
+
+himself
+
+herself
+
+itself
+
+ourselves
+
+yourselves
+
+themselves
+
+For example:
+
+I told myself not to spend all my money on new shoes.
+
+You're going to have to drive yourself to the restaurant today.
+
+We gave ourselves plenty of extra time.
+
+They bought themselves a new car.
