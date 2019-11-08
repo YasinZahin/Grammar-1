@@ -9,3 +9,20 @@ examples: she hardly ever sing.
 conjunction: is a word which join or combine two words two phrases or two sentences
 example: What is the difference between computer science and software engineering?
 
+Noun: noun is the name of person place or thing
+examples: Afghanistan is my passion.
+in  this example thee word afghanistan is a noun
+
+Tenses :
+Present tense:
+which we do regularly or habitually
+structure: s+v+c ..... s+vs/es+c
+example: she works hard
+they work hard
+
+continuous tense:
+
+shows and action which we do right now or at the time of speaking
+structure: s+tobe+v/ing+c
+examples: students are suffering so much pressure of studies
+
