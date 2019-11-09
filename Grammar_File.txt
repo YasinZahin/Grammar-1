@@ -276,3 +276,42 @@ You're going to have to drive yourself to the restaurant today.
 We gave ourselves plenty of extra time.
 
 They bought themselves a new car.
+
+
+----------------------------------------
+new Info 
+What is a pronoun?
+A pronoun is a word that is used instead of a noun or noun phrase. Pronouns refer to either a noun that has already been mentioned or to a noun that does not need to be named specifically.
+
+The most common pronouns are the personal pronouns, which refer to the person or people speaking or writing (first person), the person or people being spoken to (second person), or other people or things (third person). Like nouns, personal pronouns can function as either the subject of a verb or the object of a verb or preposition: "She likes him, but he loves her." Most of the personal pronouns have different subject and object forms:
+
+pronoun table
+
+There are a number of other types of pronouns. The interrogative pronouns—particularly what, which, who, whom, and whose—introduce questions for which a noun is the answer, as in "Which do you prefer?"
+
+Possessive pronouns refer to things or people that belong to someone. The main possessive pronouns are mine, yours, his, hers, its, ours, and theirs.
+
+The four demonstrative pronouns—this, that, these, and those—distinguish the person or thing being referred to from other people or things; they are identical to the demonstrative adjectives.
+
+Relative pronouns introduce a subordinate clause, a part of a sentence that includes a subject and verb but does not form a sentence by itself. The main relative pronouns are that, which, who, whom, what, and whose.
+
+Reflexive pronouns refer back to the subject of a sentence or clause and are formed by adding -self or -selves to a personal pronoun or possessive adjective, as in myself, herself, ourselves, and itself.
+
+Indefinite pronouns, such as everybody, either, none, and something, do not refer to a specific person or thing, and typically refer to an unidentified or unfamiliar person or thing.
+
+The words it and there can also be used like pronouns when the rules of grammar require a subject but no noun is actually being referred to. Both are usually used at the beginning of a sentence or clause, as in "It was almost noon" and "There is some cake left." These are sometimes referred to as expletives.
+
+Examples of pronoun in a Sentence
+Recent Examples on the Web
+Honestly, English requires so little declension in comparison with most languages that expecting the declension of pronouns in compound objects isn’t asking for the moon.
+— Lionel Shriver, Harper's magazine, "Semantic Drift," 22 July 2019
+The first Democratic debate was notable for the absence of two pronouns: Donald Trump, the man who the eventual nominee will take on next year, and Joe Biden, the current Democratic frontrunner.
+— Alex Shephard, The New Republic, "Will anyone be brave enough to try to take down Joe Biden?," 28 June 2019
+These example sentences are selected automatically from various online news sources to reflect current usage of the word 'pronoun.' Views expressed in the examples do not represent the opinion of Merriam-Webster or its editors. Send us feedback.
+
+See More
+First Known Use of pronoun
+15th century, in the meaning defined above
+
+History and Etymology for pronoun
+Middle English, from Anglo-French, from Latin pronomin-, pronomen, from pro- for + nomin-, nomen name — more at PRO-, NAME
